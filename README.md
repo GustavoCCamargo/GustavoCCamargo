@@ -13,6 +13,7 @@ Tenho interesse especial em:
 Arquitetura de Software
 da sign
 Sistemas Embarcados
+
 🚀 Meu objetivo é atuar como desenvolvedor Backend , contribuindo para a construção de aplicações seguras, bem estruturadas e confiáveis, enquanto continuo aprimorando meus conhecimentos em engenharia de software.
 
 🛠️ Habilidades
